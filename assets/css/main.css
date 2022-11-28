@@ -1,0 +1,132 @@
+.sidebar{
+    box-shadow: #A8ACB4;
+}
+.sidebar li{
+    padding: 8px;
+    color: #A8ACB4;
+    font-weight: 500;
+    font-size: 14px;
+}
+.sidebar li:hover{
+    color: #0F53BA;
+}
+#services .buy-btn {
+    display: inline-block;
+    padding: 12px 35px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    transition: 0.3s;
+    border: 1px solid #0F53BA;
+    margin-top: 73px;
+    border-radius: 30px;
+    color: #0F53BA;
+}
+.sectionHeadingStyle{
+    font-size: medium;
+    color: #0F53BA;
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+#team .downButton i{
+    font-size: 50px;
+    color:  #FF9617;
+}
+#team .row{
+    margin-top: 50px;
+}
+#team .memberBox{
+    height: 180px;
+    padding: 50px;
+    border-radius: 15px;
+}
+.serviceSectionDiv{
+    box-shadow: 2px 2px 3px 0px ;
+    border-radius: 10px;
+    height: 450px;
+}
+.serviceSectionContentDiv{
+    padding-left: 30px;
+}
+#whyChooseUs{
+    text-align: center;
+}
+#whyChooseUs .buy-btn {
+    display: inline-block;
+    padding: 1px 49px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    transition: 0.3s;
+    border: 1px solid #0F53BA;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: #0F53BA;
+}
+#blogs .buy-btn {
+    display: inline-block;
+    padding: 1px 49px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    transition: 0.3s;
+    border: 1px solid #FF9617
+    ;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: #FF9617    ;
+    text-align: center;
+}
+#blog .card-title {
+    color:#0F53BA !important
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+    width:100%;
+    padding-top: 20px;
+    text-align:center;
+  }
+  .carousel{
+    width:90%;
+    margin:0px auto;
+  }
+  .slick-slide{
+    margin:10px;
+  }
+  .slick-slide img{
+    width:100%;
+  }
+  .slick-prev, .slick-next{
+    background: #000;
+    border-radius: 15px;
+    border-color: transparent;
+  }
+  .card{
+    border: 2px solid #fff;
+    box-shadow: 1px 1px 15px #ccc;
+  }
+  .card-body{
+    background: #fff;
+    width: 100%;
+    vertical-align: top;
+  }
+  .card-content{
+    text-align: left;
+    color: #333;
+    padding: 15px;
+  }
+  .card-text{
+    font-size: 14px;
+    font-weight: 300;
+  }
+  .titleCardBlog{
+    color: #0F53BA    ;  
+  }
